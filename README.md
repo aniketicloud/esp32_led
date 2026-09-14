@@ -7,6 +7,10 @@ First hardware check for the UnifyHQ sensor node.
 - LED: breadboard, GPIO13 (D13), series 220 Ω
 - Confirmed working: 2026-09-14
 
+## Schematic
+
+![Blink schematic](docs/schematic-blink.svg)
+
 ## Wiring
 
 ![GPIO13 LED wiring](docs/wiring-blink.svg)
